@@ -1,4 +1,4 @@
-# databricks-notebook-organizacao
+# Organização e Análise com Azure Databricks
 
 🚴‍♀️ Projeto prático desenvolvido durante o bootcamp da DIO, utilizando Azure Databricks Community Edition. Aqui explorei leitura de dados com Python, filtros por categoria, visualização com display() e organização de notebooks em ambiente colaborativo.
 
@@ -67,4 +67,6 @@
 
 ## 🔗 Link do projeto
 
-📌 [Link em html](file:///Users/laurenfreitas/Downloads/Untitled%20Notebook%202025-04-24%2011_30_13%20(1).html)
+📌 [Importar para o Databricks Community Edition](https://community.cloud.databricks.com/)
+
+
